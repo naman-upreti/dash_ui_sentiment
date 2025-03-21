@@ -35,7 +35,7 @@ The **Sentiment Analysis Dashboard** is an interactive web application built usi
 ## 🔧 **Installation & Setup**  
 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-dashboard.git
+git clone https://github.com/naman-upreti/sentiment-analysis-dashboard.git
 cd sentiment-analysis-dashboard
 ```
 2️⃣ Install dependencies  
@@ -72,9 +72,9 @@ The **Sentiment Analysis Dashboard** is a simple yet powerful tool for visualizi
 
 ---
 
-🔗 **Author:** [Your Name]  
-📧 **Contact:** your.email@example.com  
-🚀 **GitHub Repository:** [Your Repository Link]  
+🔗 **Author:** [Naman Upreti]  
+📧 **Contact:** namanupreti02@gmail.com  
+🚀 ** Repository:** [https://github.com/naman-upreti/dash_ui_sentiment]  
 
 ---
 **⭐ Don't forget to give this project a star if you found it useful!** 🚀✨
